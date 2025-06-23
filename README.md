@@ -15,7 +15,7 @@ The project includes multiple Git branches, a proper `.gitignore` file for Unity
 
 Screenshot of the S06_PenaltyKick scene in Unity:
 
-![Penalty Kick Screenshot](./Screenshots/penalty_kick.png)
+![Penalty Kick Screenshot](Screenshots/penaltykick.png)
 
 ## 📂 Repository Includes
 
